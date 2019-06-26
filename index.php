@@ -33,7 +33,7 @@
                <div class="css-button" >
                  <p class="css-button-text">Credit Transfer</p>
                  <div class="css-button-inner">
-                 <a href="selectuser.php.php" >
+                 <a href="selectuser.php" >
                  <div class="reset-skew">
                  <p class="css-button-inner-text">Credit Transfer</p>
                </div></a>
