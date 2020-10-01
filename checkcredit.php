@@ -1,4 +1,5 @@
-<?php
+<amazing credit management project>
+    <?php
 session_start();
 $con=mysqli_connect('localhost','root','','company');
 //mysqli_select_db($con,'id8930489_spark');
@@ -41,5 +42,5 @@ else
     
     include 'index.php';
 
-}
+} 
 ?>
