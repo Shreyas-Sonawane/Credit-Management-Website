@@ -25,7 +25,7 @@
                 </div>
                 </div>
 
-                </td>
+                
                 </tr>
 
                 <tr>        
@@ -40,7 +40,7 @@
                </div>
                </div>
 
-               </td>
+               
                </tr>
 
             </table>
