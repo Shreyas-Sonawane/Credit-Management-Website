@@ -1,4 +1,4 @@
-# Credit-Management-WebApp
+# web application management(credit)
 Credit management web application created for the task given by Sparks Foundation Internship Program.
 
 
